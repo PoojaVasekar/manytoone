@@ -6,6 +6,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		Operation_1.insertData();
+		System.out.println("Changes");
 }
 	
 }
